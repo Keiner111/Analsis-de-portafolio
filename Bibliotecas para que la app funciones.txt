@@ -1,0 +1,21 @@
+1. Instalar Python 3.13
+El primer paso y el más importante es la instalación de Python. Ve a la página oficial de Python y descarga la versión más reciente, que es Python 3.13.
+
+Durante la instalación, asegúrate de marcar la casilla "Add python.exe to PATH". Esto te ahorrará muchos problemas, ya que te permitirá ejecutar comandos de Python y pip desde cualquier lugar en tu terminal.
+
+2. Instalar los Paquetes de Python
+Una vez que Python 3.13 esté instalado, abre tu terminal o símbolo del sistema.
+
+Copia y pega la siguiente lista de comandos, uno por uno. Cada comando se encargará de instalar una biblioteca diferente para tus proyectos.
+pip install requests
+pip install reportlab
+pip install python-docx
+pip install matplotlib
+pip install xlrd
+pip install openpyxl
+pip install pandas
+pip install streamlit
+pip install pypdf
+pip install plotly
+pip install xlsxwriter
+pip install firebase-admin

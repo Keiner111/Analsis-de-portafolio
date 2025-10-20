@@ -1,0 +1,29 @@
+{
+    "gastos_df": [
+        {
+            "Fecha": "2025-04-01",
+            "Descripcion": "TRANSF QR KEYNER ANDRES RUIZ",
+            "Monto": 2000000.0,
+            "Categoria": "Ingreso - Transferencia / Honorarios"
+        },
+        {
+            "Fecha": "2025-04-01",
+            "Descripcion": "ABONO INTERESES AHORROS",
+            "Monto": 3.01,
+            "Categoria": "Financiero - Intereses ganados"
+        },
+        {
+            "Fecha": "2025-04-01",
+            "Descripcion": "PAGO SUC VIRT TC MASTER PESOS",
+            "Monto": -35000.0,
+            "Categoria": "Gasto - Pago de tarjeta de cr\u00e9dito"
+        },
+        {
+            "Fecha": "2025-04-01",
+            "Descripcion": "TRANSFERENCIA CTA SUC VIRTUAL",
+            "Monto": -350000.0,
+            "Categoria": "Gasto - Comunicaci\u00f3n"
+        }
+    ],
+    "presupuestos": {}
+}

@@ -1,0 +1,10 @@
+Nombre,Ingresos,Deudas Actuales,Monto Prestamo,Tasa (%),Plazo (meses),Cuota Estimada,% Endeudamiento,Resultado,Riesgo Actividad,Capital Restante
+Pedro,4500000.0,5000000.0,1500000.0,8.0,5.0,375684.6818502546,119.45965959667232, Riesgo critico (119.46%): No se recomienda otorgar el prestamo.,Bajo,
+Nuris,2500000.0,100000.0,1000000.0,2.0,2.0,515049.5049504942,24.60198019801977,Aprobado con advertencia (24.60%): Cuidado con sobreendeudarte.,Alto,
+Rocio,200000.0,5000000.0,150000.0,5.0,5.0,34646.219719240195,2517.32310985962,Riesgo crítico (2517.32%): No se recomienda otorgar el préstamo.,Crítico,
+Rocio v,20000000.0,5000000.0,150000.0,5.0,5.0,34646.219719240195,25.173231098596204,Aprobado con advertencia (25.17%): Cuidado con sobreendeudarte.,Crítico,
+Ignacio,500000.0,300000.0,150000.0,5.0,2.0,80670.73170731701,76.1341463414634,Riesgo crítico (76.13%): No se recomienda otorgar el préstamo.,Alto,
+Ruiz,0.0,0.0,3000000.0,1.36,12.0,272647.07211047946,0.0,No se puede evaluar sin ingresos.,Bajo,0.0
+Ruiz,2000000.0,0.0,3000000.0,1.36,12.0,272647.07211047946,13.632353605523972,**✅ APROBADO** (13.63%): Salud financiera óptima.,Bajo,1727352.9278895203
+Ruiz,2000000.0,0.0,3000000.0,1.36,12.0,272647.07211047946,13.632353605523972,**✅ APROBADO** (13.63%): Salud financiera óptima.,Bajo,1727352.9278895203
+ignacio,2000000.0,0.0,3000000.0,2.9,12.0,299589.9728498123,14.979498642490615,**Aprobado** (14.98%): Salud financiera óptima.,Alto,

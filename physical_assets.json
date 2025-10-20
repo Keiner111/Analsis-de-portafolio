@@ -1,0 +1,31 @@
+[
+    {
+        "ID": 2,
+        "Tipo": "Bien raíz",
+        "Descripción": "Tierra",
+        "Ubicación": "Puerto Isabel",
+        "Valor Actual": 5500000.0,
+        "Valor de Adquisición": 4400000.0,
+        "Fecha Adquisición": "2025-09-03",
+        "Depreciación Acumulada": 0,
+        "Ingreso Anual": 515000.0,
+        "Costos Mensuales": 0,
+        "Horizonte": 5,
+        "Vida Útil": 50,
+        "Años Transcurridos": 0.0,
+        "Rentabilidad (%)": 11.7,
+        "Utilidad Neta Anual": 515000.0,
+        "Utilidad Neta Horizonte": 2575000.0,
+        "Ratio C/B": Infinity,
+        "ROI Acumulado (%)": 58.52,
+        "Periodo de Recuperación (años)": 8.54,
+        "Recomendación": "✅ Buena inversión alternativa",
+        "Fecha Registro": "2025-09-03T11:37:01.824635",
+        "Tipo Inmueble": "Lote",
+        "Área (m²)": 4500.0,
+        "Canon Arriendo/mes": 20000.0,
+        "Gastos Admin/mes": 0.0,
+        "Impuestos Anuales": 0.0,
+        "Valorización Anual (%)": 5.0
+    }
+]
